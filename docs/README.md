@@ -6,7 +6,7 @@ An RFC is authored in the form of a memorandum describing methods, behaviors, re
 
 ## How to submit RFC
 
-1. Checkout out the template in this repo [here](https://github.com/gruunday/MasterDoc/blob/master/template.md) (It may be an idea to use [md.redbrick.dcu.ie](md.redbrick.dcu.ie) to edit)
+1. Checkout out the template in this repo [here](https://github.com/gruunday/RFCs/blob/master/template.md) (It may be an idea to use [md.redbrick.dcu.ie](md.redbrick.dcu.ie) to edit)
 
 2. Fork this repo and add your edits
 

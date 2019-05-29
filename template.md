@@ -3,7 +3,7 @@ Status: **proposal** | accepted | rejected | deprecated | superseded
 Author: $AUTHOR_NAME ($RB_USERNAME)
 Date: $DATE_OF_PROPOSAL
 
-> [THESE ARE SUGGESTED TITLES YOU CAN ADAPT THEM AS NEEDS CHANGE]
+<!--- THESE ARE SUGGESTED TITLES YOU CAN ADAPT THEM AS NEEDS CHANGE -->
 
 ## Context 
 
@@ -17,8 +17,8 @@ Date: $DATE_OF_PROPOSAL
 
 ## Pros and Cons of the Options
 
-#### Appeals of Solution
+### Appeals of Solution
 
-#### Limitations of Solution
+### Limitations of Solution
 
 ## Deployment Plan
